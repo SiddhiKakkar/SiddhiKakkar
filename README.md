@@ -1,4 +1,4 @@
-### Hi I'm Siddhi 👋
+### Hi,I'm Siddhi 👋
 
 <!--
 ## Want to know more?
@@ -20,19 +20,7 @@
 
 <br>
 
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="500">
-<!--
-- <img alt="GIF" src="media/wave.gif" width="30px" /> My name is **Akshita Singhal**
-- <img src="media/happy.gif" width="30px"> I'm a student of **B.Tech Computer Science** in **India**
-- <img src="media/Developer.gif" width="40px"> I am interested in **Web Development** , **Machine Learning** and **Data Science**
-- <img src="media/c.gif" width="30px"> My favourite language for **DSA** and **general programming** is **C++**
-- <img src="media/gandalf_parrot.gif" width="30px">I like **drawing** and **painting** too.
-- <img src="media/game.gif" width="30px"> I also lovee solving **sudokuss**
-- <img alt="GIF" src="media/powerup.gif" width="30px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
-- <img alt="GIF" src="media/thoughts.gif" width="40px" />Ask me about programming in general, I am always
-available to help and learn together.
- -->
- 
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="300"> 
 -  My name is **Siddhi Kakkar**
 -  B.Tech in Computer Science (2020-2024) from **Graphic Era University**
 -  I am interested in **Web Development** , **Machine Learning**
@@ -86,4 +74,5 @@ available to help and learn together.
 
 ## Want to know more? <img src="media/Developer.gif" width="45px">
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-siddhikakkar07@gmail.com-blue" />](mailto:siddhikakkar07@gmail.com) <br>
+[<img alt="linkedin" src="https://www.linkedin.com/in/siddhi-kakkar-80b7b8213/" />](https://www.linkedin.com/in/siddhi-kakkar-80b7b8213/) <br>
 [<img alt="portfolio link" src="https://img.shields.io/badge/Leetcode-siddhikakkar-orange" />](https://leetcode.com/SiddhiKakkar/) 
