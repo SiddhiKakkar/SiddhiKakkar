@@ -37,13 +37,9 @@
 available to help and learn together.
  -->
  
--  My name is **Akshita Singhal**
+-  My name is **Siddhi Kakkar**
 -  I'm a student of **B.Tech Computer Science** in **India**
--  I am interested in **Web Development** , **Machine Learning** and **Data Science**
--  My favourite language for **DSA** and **general programming** is **C++**
--  I like **drawing** and **painting** too.
--  I also lovee solving **sudokuss**
--  **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+-  I am interested in **Web Development** , **Machine Learning**
 -  Ask me about programming in general, I am always
 available to help and learn together.
 
@@ -51,8 +47,8 @@ available to help and learn together.
 
 ## My GitHub Status <img src="media/star.gif" width="40px">
 <p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitasinghal4444&count_private=true&theme=radical" alt="Akshita :)" />
-<img  src="https://github-readme-stats.vercel.app/api?username=akshitasinghal4444&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Akshita's GitHub Stats">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhikakkar&count_private=true&theme=radical" alt="Siddhi :)" />
+<img  src="https://github-readme-stats.vercel.app/api?username=siddhikakkar&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Akshita's GitHub Stats">
 </p>
 
 <br>
@@ -105,11 +101,6 @@ available to help and learn together.
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="media/jquery.gif"> 
-</td>
-
-
-<td align="center" width="33%">
 <img height=60px src="media/node js.png"> 
 </td>
 </tr>
@@ -117,7 +108,7 @@ available to help and learn together.
 </tbody>
 </table>
 
-- **Machine Learning and Data Science**
+- **Machine Learning**
 <table>
 <tbody>
  <tr>
@@ -138,12 +129,8 @@ available to help and learn together.
                                        
 <br>
                                      
-## I am Open to Opportunities<img src="media/Handshake.gif" height="45px">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
-
-<br>
 <br>
 
 ## Want to know more? <img src="media/Developer.gif" width="45px">
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-akshitasinghal4444@gmail.com-blue" />](mailto:akshitasinghal4444@gmail.com) <br>
-[<img alt="portfolio link" src="https://img.shields.io/badge/Leetcode-akshitasinghal-orange" />](https://leetcode.com/akshitasinghal/) 
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-siddhikakkar07@gmail.com-blue" />](mailto:siddhikakkar07@gmail.com) <br>
+[<img alt="portfolio link" src="https://img.shields.io/badge/Leetcode-siddhikakkar-orange" />](https://leetcode.com/SiddhiKakkar/) 
