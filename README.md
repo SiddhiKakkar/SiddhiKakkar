@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Siddhi 👋
 
 <!--
 ## Want to know more?
@@ -20,7 +20,7 @@
 
 <br>
 
-##  About Me <img src="media/heart.gif" width="50px"> 
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="500">
 <!--
 - <img alt="GIF" src="media/wave.gif" width="30px" /> My name is **Akshita Singhal**
 - <img src="media/happy.gif" width="30px"> I'm a student of **B.Tech Computer Science** in **India**
