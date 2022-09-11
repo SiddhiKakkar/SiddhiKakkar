@@ -109,10 +109,10 @@ available to help and learn together.
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="media/numpy.jpg"> 
+<i class="devicon-numpy-original"></i>
 </td>
 <td align="center" width="33%">
-<img height=110px  src="media/pandas.png"> 
+<i class="devicon-pandas-original"></i>
 </td>
 <td align="center" width="33%">
 <img height=60px src="media/scikit.png"> 
