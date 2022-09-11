@@ -19,12 +19,15 @@
 -->
 
 <br>
-
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="300"> 
--  My name is **Siddhi Kakkar**
--  B.Tech in Computer Science (2020-2024) from **Graphic Era University**
--  I am interested in **Web Development** , **Machine Learning** 
--  All of my projects are available at [https://github.com/SiddhiKakkar](https://github.com/SiddhiKakkar)
+##  About Meee <img src="media/heart.gif" width="50px"> 
+ 
+-  My name is **Akshita Singhal**
+-  I'm a student of **B.Tech Computer Science** in **India**
+-  I am interested in **Web Development** , **Machine Learning** and **Data Science**
+-  My favourite language for **DSA** and **general programming** is **C++**
+-  I like **drawing** and **painting** too.
+-  I also lovee solving **sudokuss**
+-  **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 -  Ask me about programming in general, I am always
 available to help and learn together.
 
