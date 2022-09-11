@@ -21,9 +21,8 @@
 <br>
 <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="450"> 
 -  My name is **Siddhi Kakkar**
--  B.Tech in Computer Science (2018-2022) from **Graphic Era University**
+-  I'm a student of **B.Tech Computer Science** in **India**
 -  I am interested in **Web Development** , **Machine Learning**
--  All of my projects are available at [https://github.com/SiddhiKakkar](https://github.com/SiddhiKakkar)
 -  Ask me about programming in general, I am always
 available to help and learn together.
 
