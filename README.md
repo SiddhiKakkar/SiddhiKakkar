@@ -74,5 +74,4 @@ available to help and learn together.
 
 ## Want to know more? <img src="media/Developer.gif" width="45px">
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-siddhikakkar07@gmail.com-blue" />](mailto:siddhikakkar07@gmail.com) <br>
-[<img alt="linkedin" src="https://www.linkedin.com/in/siddhi-kakkar-80b7b8213/" />](https://www.linkedin.com/in/siddhi-kakkar-80b7b8213/) <br>
 [<img alt="portfolio link" src="https://img.shields.io/badge/Leetcode-siddhikakkar-orange" />](https://leetcode.com/SiddhiKakkar/) 
