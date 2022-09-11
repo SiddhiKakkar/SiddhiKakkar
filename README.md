@@ -36,6 +36,7 @@ available to help and learn together.
 -  My name is **Siddhi Kakkar**
 -  I'm a student of **B.Tech Computer Science** in **India**
 -  I am interested in **Web Development** , **Machine Learning**
+-  All of my projects are available at [https://github.com/SiddhiKakkar](https://github.com/SiddhiKakkar)
 -  Ask me about programming in general, I am always
 available to help and learn together.
 
@@ -52,75 +53,31 @@ available to help and learn together.
 ## My Skills<img src="media/skills.gif" height="50px">
 
 - **Programming Languages**
-<table>
- <tbody>
-  <tr>
-   <td align="center" >
-   <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-   </td>
-   <td align="center" width="50%">
-   <img height=90px src="media/c.png"> 
-   </td>
-  </tr>
- 
-<tr>
-<td align="center" >
-<img height=80px src="media/java.png"> 
-</td>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-</tr>
-
-</tbody>
-</table>
+<h1 align = "center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80"  />
+</h1>
 
 
 - **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-<td align="center" width="33%">
-<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
-</td>
-<td align="center" width="33%">
-<img height=60px src="media/js.png"> 
-</td>
-</tr>
-
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="media/node js.png"> 
-</td>
-</tr>
-
-</tbody>
-</table>
+<h1 align = "center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" height="80"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80" height="80"  />
+</h1>
 
 - **Machine Learning**
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<i class="devicon-numpy-original"></i>
-</td>
-<td align="center" width="33%">
-<i class="devicon-pandas-original"></i>
-</td>
-<td align="center" width="33%">
-<img height=60px src="media/scikit.png"> 
-</td>
-</tr>
-
-</tbody>
-</table>
+<h1 align = "center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80" height="80"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80" height="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="80"  />
+</h1>
 
                                        
 <br>
