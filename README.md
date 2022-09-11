@@ -4,8 +4,6 @@
 
 </p>
 
-
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="450">
 ## About Me
 -  My name is Siddhi Kakkar
 -  B.Tech in Computer Science (2020-2024) from **Graphic Era University**
