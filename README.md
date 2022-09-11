@@ -17,14 +17,10 @@
 
 
 -->
-<p float="left">
-<img  src="media/hello.gif" width="200">
-<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-</p>
 
 <br>
 
-##  About Meee <img src="media/heart.gif" width="50px"> 
+##  About Me <img src="media/heart.gif" width="50px"> 
 <!--
 - <img alt="GIF" src="media/wave.gif" width="30px" /> My name is **Akshita Singhal**
 - <img src="media/happy.gif" width="30px"> I'm a student of **B.Tech Computer Science** in **India**
