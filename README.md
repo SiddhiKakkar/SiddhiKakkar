@@ -2,12 +2,10 @@
 
 
 <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="450"> 
-<br>
--  My name is **Siddhi Kakkar**
--  I'm a student of **B.Tech Computer Science** in **India**
--  I am interested in **Web Development** , **Machine Learning**
--  Ask me about programming in general, I am always
-available to help and learn together.
+## About Me
+-  I am a student of B.Tech Computer Science
+-  I am interested in Web Development and Machine Learning <br>
+-  All of my projects are available at [https://github.com/SiddhiKakkar](https://github.com/SiddhiKakkar)
 
 <br>
 
