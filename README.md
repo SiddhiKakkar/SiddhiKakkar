@@ -1,9 +1,14 @@
-### Hi,I'm Siddhi 👋
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Siddhi Kkkar
+</h3>
+
+</p>
 
 
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="450"> 
+
 ## About Me
--  I am a student of B.Tech Computer Science
+-  My name is Siddhi Kakkar
+-  B.Tech in Computer Science (2020-2024) from **Graphic Era University**
 -  I am interested in Web Development and Machine Learning <br>
 -  All of my projects are available at [https://github.com/SiddhiKakkar](https://github.com/SiddhiKakkar)
 
