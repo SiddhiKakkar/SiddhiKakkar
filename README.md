@@ -34,7 +34,7 @@ available to help and learn together.
  -->
  
 -  My name is **Siddhi Kakkar**
--  I'm a student of **B.Tech Computer Science** in **India**
+-  B.Tech in Computer Science (2020-2024) from **Graphic Era University**
 -  I am interested in **Web Development** , **Machine Learning**
 -  All of my projects are available at [https://github.com/SiddhiKakkar](https://github.com/SiddhiKakkar)
 -  Ask me about programming in general, I am always
