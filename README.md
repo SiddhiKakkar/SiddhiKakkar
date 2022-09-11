@@ -1,8 +1,8 @@
 ### Hi,I'm Siddhi 👋
 
 
-
 <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="450"> 
+<br>
 -  My name is **Siddhi Kakkar**
 -  I'm a student of **B.Tech Computer Science** in **India**
 -  I am interested in **Web Development** , **Machine Learning**
