@@ -13,7 +13,9 @@
 <br>
 <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="500">
 <br>
+
 ## My GitHub Status
+
 <p>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhikakkar&count_private=true&theme=radical" alt="Siddhi :)" />
 <img  src="https://github-readme-stats.vercel.app/api?username=siddhikakkar&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Siddhi's GitHub Stats">
